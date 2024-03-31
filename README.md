@@ -4,10 +4,10 @@
 This project involves the analysis of job market data using MySQL. The dataset contains information about various job listings, including job titles, salaries, company details, and more. The primary objective is to perform exploratory data analysis (EDA) and answer specific questions about the job market using SQL queries.
 
 ## Contents
-# Data Insertion
-# Exploratory Data Analysis (EDA)
-# SQL Queries and Analysis
-    # 1. Average Salary for All Jobs
+### Data Insertion
+### Exploratory Data Analysis (EDA)
+### SQL Queries and Analysis
+     1. Average Salary for All Jobs
     # 2. Highest Salary and Corresponding Job Role
     # 3. Average Salary for Data Scientists in the US
     # 4. Number of Jobs Available for Each Job Title
