@@ -42,7 +42,7 @@ This project involves the analysis of job market data using MySQL. The dataset c
 ```sql
 SELECT AVG(salary) AS Avg_salary FROM jobs;
 ```
-Find rest of the queries in the file
+Please find rest of the queries in the file
 
 ## Conclusion
 This MySQL project provides valuable insights into the job market data, including salary trends, job availability, and geographical distribution. The SQL queries and analysis performed shed light on various aspects of the job market, enabling informed decision-making for job seekers, employers, and policymakers.
