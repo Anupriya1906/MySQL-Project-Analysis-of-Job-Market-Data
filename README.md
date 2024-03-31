@@ -41,7 +41,7 @@ This project involves the analysis of job market data using MySQL. The dataset c
 - Explored key statistics, distributions, and relationships between variables to gain insights into the job market trends.
 
 ## SQL Queries and Analysis
-Performed various SQL queries to analyze the job market data and answer specific questions:
+### Performed various SQL queries to analyze the job market data and answer specific questions:
      1. Average Salary for All Jobs
      2. Highest Salary and Corresponding Job Role
      3. Average Salary for Data Scientists in the US
